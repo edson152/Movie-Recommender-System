@@ -1,0 +1,6 @@
+Django==3.2.2
+pandas==1.2.4
+numpy==1.22.3
+scipy==1.8.0
+
+exc~=0.92
