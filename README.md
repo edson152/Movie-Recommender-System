@@ -1,6 +1,6 @@
 # Movie-Recommendation-System-Web-Application-Project
-Building a Movie Recommendation System web application using Django framework and Recommendation technique called Content-Filtering 
-- Matrix Factorization Algorithm
+A Django movie recommendation web application that uses content filtering and matrix factorization algorithms to suggest movies based on user preferences. Built with Python, HTML, CSS, JavaScript, and Bootstrap.
+
 The recommendation based on the underlying idea that is if one person liked a certian common movie,then the movie that one person has liked can be recommended to him.  
 
 
